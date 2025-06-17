@@ -39,11 +39,11 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=merko&hide=issues&count_private=true)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=default&hide=issues&count_private=true" alt="lesego-maponyane" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=merko&hide=issues&count_private=true" alt="GitHub Stats" />
 </p>
+
 
 ---
 
