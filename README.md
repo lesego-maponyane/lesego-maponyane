@@ -64,7 +64,7 @@
   
   Used data cleaning, SMOTE balancing, and Random Forest classification to predict missed appointments in a Brazilian medical dataset.
 
-- 🐾 [Pine City Zoo Website](https://github.com/lesego-maponyane/pine-city-zoo)  
+- 🐾 [Pine City Zoo Website](https://github.com/lesego-maponyane/Pine-City_Zoo)  
   A kid-friendly, responsive website built as part of FNB App Academy, introducing children to animals in a fun and interactive way.
 
 - 🧮 [Calculator App](https://github.com/lesego-maponyane/calculator-app)  
