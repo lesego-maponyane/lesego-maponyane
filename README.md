@@ -40,8 +40,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=gruvbox&hide=issues&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=synthwave&hide=issues&count_private=true)
 
 
 ---
