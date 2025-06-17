@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lesego</h1>
+<h1 align="center">Hi 👋, I'm Lesego 😃 </h1>
 <h3 align="center">Civil Engineer turned Aspiring Developer & Data Scientist | Passionate about tech, education, and real-world impact</h3>
 
 ---
@@ -8,11 +8,12 @@
 - 🐾 **Pine City Zoo** – an interactive, kid-friendly website  
 - 🧮 **Calculator App** – responsive and user-friendly  
 - 📇 **Contact Book App** – a basic CRUD application to manage contacts
+
   
 🛠️ I’ve also worked on:  
 - A healthcare appointment no-show prediction model  
--  
 - Building my portfolio for data science job readiness
+
 
 🎯 Focused on:
 - Changing how children engage with education through innovative tech  
@@ -20,19 +21,10 @@
 - Developing job-ready skills in software engineering and data science    
 - Build tech that empowers women and youth  
 
+
 💡 I enjoy working with data to solve real-world problems  
 📚 I'm currently deep-diving into Python, SQL, and Machine Learning  
 📫 How to reach me: `lesegomaponyane@gmail.com`
-
----
-
-### 🛠️ Tech Stack
-<!-- Badges -->
-
----
-
-### 📈 GitHub Stats
-<!-- GitHub stats card -->
 
 ---
 
@@ -53,7 +45,6 @@
 
 ---
 
-### 📌 Featured Projects
 ### 📌 Featured Projects
 
 - 🔍 [Healthcare Appointment No-Show Predictor](https://github.com/lesego-maponyane/healthcare-no-show-project)  
