@@ -67,7 +67,7 @@
 - 🐾 [Pine City Zoo Website](https://github.com/lesego-maponyane/Pine-City_Zoo)  
   A kid-friendly, responsive website built as part of FNB App Academy, introducing children to animals in a fun and interactive way.
 
-- 🧮 [Calculator App](https://github.com/lesego-maponyane/calculator-app)  
+- 🧮 [Calculator App](https://github.com/lesego-maponyane/Calculator_App)  
   A simple and intuitive web-based calculator that supports basic arithmetic operations. Focused on usability and clean design.
 
 - 📇 [Contact Book App](https://github.com/lesego-maponyane/contact-book-app)  
