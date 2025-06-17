@@ -1,5 +1,5 @@
-<h1 align="center">Hello hello 👋, I'm Lesego 😃 </h1>
-<h3 align="center">Civil Engineer turned Aspiring Developer & Data Scientist | Passionate about tech, education, and real-world impact</h3>
+<h1 align="center">Hello Hello 👋, I'm Lesego 😃 </h1>
+<h3 align="center">Civil Engineer and aspiring Developer & Data Scientist | Passionate about tech, education, and real-world impact</h3>
 
 ---
 
@@ -73,7 +73,7 @@
 - 📇 [Contact Book App](https://github.com/lesego-maponyane/contact-book-app)  
   A contact management application that allows users to add, edit, and delete contacts. Built using modern web development practices.
 
-- 📚 **EdTech Exploration** (Private Repo)  
+- 📚 **Tech Exploration** (Private Repo)  
   Exploring how technology can **change the way children engage with learning**. Focused on impact and accessibility.
 ---
 
