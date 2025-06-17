@@ -48,6 +48,7 @@
 ### 📌 Featured Projects
 
 - 🔍 [Healthcare Appointment No-Show Predictor][(https://github.com/lesego-maponyane/Medical-appointment-no-show)
+  
   Used data cleaning, SMOTE balancing, and Random Forest classification to predict missed appointments in a Brazilian medical dataset.
 
 - 🐾 [Pine City Zoo Website](https://github.com/lesego-maponyane/pine-city-zoo)  
