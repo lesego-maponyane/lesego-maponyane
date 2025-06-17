@@ -40,9 +40,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=merko&hide=issues&count_private=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=gruvbox&hide=issues&count_private=true)
+
 
 
 ---
