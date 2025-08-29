@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Lesego Maponyane 😃 </h1>
 
-<h3 align="center">Business Analyst | Data Analyst | Data Scientist | Civil Engineer
+<h3 align="center">Business Analyst | Analyst | Data Scientist | Civil Engineer
+  
 🌍 **Centurion, South Africa | Open to Remote & Relocation**  
 ---
 
