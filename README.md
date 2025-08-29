@@ -12,25 +12,31 @@
    
   
 ## 📌 Featured Projects 
+
+These projects showcase a blend of data analysis, machine learning, and web development, highlighting my ability to turn raw data into actionable insights and engaging digital experiences. From predicting healthcare appointment no-shows to classifying South African languages, analyzing electrification projects, and building interactive websites, each project reflects hands-on problem-solving, creativity, and measurable impact.
+
+Whether working with complex datasets, designing dashboards, or crafting responsive websites, I focus on delivering real results while making the work fun and meaningful. These experiences demonstrate not only technical skills but also an eagerness to tackle challenges that can make a tangible difference.
+
   ### 1. [Healthcare Appointment No-Show Analysis]
   - Built a classification model (Randon Forest + SMOTE) to predict patient no-shows
   - Created SQL queries for cohort segmentation
   - Designed a moch stakeholder dashboard (Power BI + Excel)
   - **Results:**  78% accuracy; identitfied top 3 risk factors; mock intervention could reduce no-shows by ~ 15%
 
-  ### 2. [HR Absenteeism Dashboard]
-  - Developed an interactive Power BI dashboard to track absentee trends
-  - Linked SQL + Excel sources into one reporting view
-  - **Results:**  Highlighted KPIs for HR; recommended attendace improvement policy
+  ### 2. [SA Language Hackathon]
+  - Developed a machine learning model to classify South African languages from text to data. 
+  - Preprocessed and engineered features from raw text, trained multiple models and evaluated performance.
+  - **Outcome:**  Gained insights into language patterns and built a model with practical applications from NLP and localisation tools.
  
-  ### 3. [Retail SQL Analytics]
-  - Normalized an online retail dataset to 3NF
-  - Wrote SQL queries to analyze sales trends, inventory, and customer segments
-  - **Focus:** Showcased SQL querying + business reporting
+  ### 3. [Eskom Electrification Analysis]
+  - Analysed electrification project data to track progrss, identify bottlenecks and optimise resource allocation. 
+  - Used SQL and Excel to generate actionable insights for project teams.
+  - **Impact:** Provided clear KPIs and recommendations to improve project efficiency and ensure timely electricity delivery. 
  
   ### 4. [Pine City Zoo Website]
   - Built a responsive website with HTML, CSS and Javascript
-  - Demonstrates front-end development and creatvie design skills
+  - Showcases creativity in front-end design and usabiloty.
+  - **Outcome:** Provides an engaging experience for visitors while demonstrating solid web development skills. 
 
 ---
     
