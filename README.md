@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Lesego Maponyane 😃 </h1>
-<h3 align="center">Civil Engineer and aspiring Developer & Data Scientist | Passionate about tech, education, and real-world impact</h3>
 
+<h3 align="center">Business Analyst | Data Analyst | Data Scientist | Civil Engineer
+🌍 **Centurion, South Africa | Open to Remote & Relocation**  
 ---
 
-🌍 I'm based in **South Africa**  
 💻 Currently part of the **FNB App Academy**, building full-stack web and mobile apps including:  
 - 🐾 **Pine City Zoo** – an interactive, kid-friendly website  
 - 🧮 **Calculator App** – responsive and user-friendly  
