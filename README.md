@@ -11,7 +11,7 @@
  - **Business Insights**  ➡️  Translate raw data into clear recommendations
    
   
-## 🛠️ Featured Projects 
+## 📌 Featured Projects 
 ### 1. [Healthcare Appointment No-Show Analysis]
 - Built a classification model (Randon Forest + SMOTE) to predict patient no-shows
 - Created SQL queries for cohort segmentation
@@ -39,7 +39,9 @@
 
 ## ☎️ Let's Connect
 ✉️  [Email me] (lesegomoraladi@gmail.com)
+
 🔗 [Linkedin] (www.linkedin.com/lesego-maponyane)
+
 🌐 [Portfolio] (https://example-l-m.my.canva.site/portfolio)
 
 ---
