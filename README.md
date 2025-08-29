@@ -8,7 +8,8 @@
  ## 💎  What I DO
  - **Data Analytics & Reportings**  ➡️  SQL queries, Excel dashboards, Power BI reports
  - **Predictive Modeling**  ➡️  Python, Scikit-learn, feature engineering, model evaluation
- - **Business Insights**  ➡️  Translate raw data into clear recommendations 
+ - **Business Insights**  ➡️  Translate raw data into clear recommendations
+   
   
 ## 🛠️ Featured Projects 
 ### 1. [Healthcare Appointment No-Show Analysis]
@@ -31,14 +32,15 @@
   - Built a responsive website with HTML, CSS and Javascript
   - Demonstrates front-end development and creatvie design skills
 
-
+---
     
- 🏆 Build tech that empowers women and youth  
 
+ 
 
-💡 I enjoy working with data to solve real-world problems  
-📚 I'm currently deep-diving into Python, SQL, and Machine Learning  
-📫 How to reach me: `lesegomaponyane@gmail.com`
+## ☎️ Let's Connect
+✉️  [Email me] (lesegomoraladi@gmail.com)
+🔗 [Linkedin] (www.linkedin.com/lesego-maponyane)
+🌐 [Portfolio] (https://example-l-m.my.canva.site/portfolio)
 
 ---
 
@@ -72,20 +74,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🔍 [Healthcare Appointment No-Show Predictor][(https://github.com/lesego-maponyane/Medical-appointment-no-show)
-  
-  Used data cleaning, SMOTE balancing, and Random Forest classification to predict missed appointments in a Brazilian medical dataset.
-
-- 🐾 [Pine City Zoo Website](https://github.com/lesego-maponyane/Pine-City_Zoo)  
-  A kid-friendly, responsive website built as part of FNB App Academy, introducing children to animals in a fun and interactive way.
-
-- 🧮 [Calculator App](https://github.com/lesego-maponyane/Calculator_App)  
-  A simple and intuitive web-based calculator that supports basic arithmetic operations. Focused on usability and clean design.
-
-- 📇 [Contact Book App](https://github.com/lesego-maponyane/contact-book-app)  
-  A contact management application that allows users to add, edit, and delete contacts. Built using modern web development practices.
 
 - 📚 **Tech Exploration** (Private Repo)  
   Exploring how technology can **change the way children engage with learning**. Focused on impact and accessibility.
