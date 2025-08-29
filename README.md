@@ -1,4 +1,4 @@
-<h1 align="center">Hello Hello 👋, I'm Lesego 😃 </h1>
+<h1 align="center">Hello 👋, I'm Lesego Maponyane 😃 </h1>
 <h3 align="center">Civil Engineer and aspiring Developer & Data Scientist | Passionate about tech, education, and real-world impact</h3>
 
 ---
