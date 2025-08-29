@@ -2,7 +2,7 @@
 
 <h2 align="center">Business Analyst | Analyst | Data Scientist | Civil Engineer </h2>
   
-🌍 Centurion, South Africa | Open to Remote & Relocation 
+🌍 <3 align = "center"> Centurion, South Africa | Open to Remote & Relocation 
 ---
 
 💻 Currently part of the **FNB App Academy**, building full-stack web and mobile apps including:  
