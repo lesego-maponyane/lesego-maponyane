@@ -79,7 +79,6 @@ Whether working with complex datasets, designing dashboards, or crafting respons
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesego-maponyane&show_icons=true&theme=synthwave&hide=issues&count_private=true)
 
-
 ---
 
 
