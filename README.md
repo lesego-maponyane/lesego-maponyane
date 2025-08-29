@@ -2,25 +2,38 @@
 
 <h2 align="center">Business Analyst | Analyst | Data Scientist | Civil Engineer </h2>
   
-🌍 <3 align = "center"> Centurion, South Africa | Open to Remote & Relocation 
+                                  🌍 Centurion, South Africa | Open to Remote & Relocation 
 ---
 
-💻 Currently part of the **FNB App Academy**, building full-stack web and mobile apps including:  
-- 🐾 **Pine City Zoo** – an interactive, kid-friendly website  
-- 🧮 **Calculator App** – responsive and user-friendly  
-- 📇 **Contact Book App** – a basic CRUD application to manage contacts
-
+ ## 💎  What I DO
+ - **Data Analytics & Reportings**  ➡️  SQL queries, Excel dashboards, Power BI reports
+ - **Predictive Modeling**  ➡️  Python, Scikit-learn, feature engineering, model evaluation
+ - **Business Insights**  ➡️  Translate raw data into clear recommendations 
   
-🛠️ I’ve also worked on:  
-- A healthcare appointment no-show prediction model  
-- Building my portfolio for data science job readiness
+## 🛠️ Featured Projects 
+### 1. [Healthcare Appointment No-Show Analysis]
+- Built a classification model (Randon Forest + SMOTE) to predict patient no-shows
+- Created SQL queries for cohort segmentation
+- Designed a moch stakeholder dashboard (Power BI + Excel)
+- **Results:**  78% accuracy; identitfied top 3 risk factors; mock intervention could reduce no-shows by ~ 15%
+
+  ### 2. [HR Absenteeism Dashboard]
+  - Developed an interactive Power BI dashboard to track absentee trends
+  - Linked SQL + Excel sources into one reporting view
+  - **Results:**  Highlighted KPIs for HR; recommended attendace improvement policy
+ 
+  ### 3. [Retail SQL Analytics]
+  - Normalized an online retail dataset to 3NF
+  - Wrote SQL queries to analyze sales trends, inventory, and customer segments
+  - **Focus:** Showcased SQL querying + business reporting
+ 
+  ### 4. [Pine City Zoo Website]
+  - Built a responsive website with HTML, CSS and Javascript
+  - Demonstrates front-end development and creatvie design skills
 
 
-🎯 Focused on:
-- Changing how children engage with education through innovative tech  
-- Building clean, scalable, and meaningful applications  
-- Developing job-ready skills in software engineering and data science    
-- Build tech that empowers women and youth  
+    
+ 🏆 Build tech that empowers women and youth  
 
 
 💡 I enjoy working with data to solve real-world problems  
