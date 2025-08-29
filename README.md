@@ -12,11 +12,11 @@
    
   
 ## 📌 Featured Projects 
-### 1. [Healthcare Appointment No-Show Analysis]
-- Built a classification model (Randon Forest + SMOTE) to predict patient no-shows
-- Created SQL queries for cohort segmentation
-- Designed a moch stakeholder dashboard (Power BI + Excel)
-- **Results:**  78% accuracy; identitfied top 3 risk factors; mock intervention could reduce no-shows by ~ 15%
+  ### 1. [Healthcare Appointment No-Show Analysis]
+  - Built a classification model (Randon Forest + SMOTE) to predict patient no-shows
+  - Created SQL queries for cohort segmentation
+  - Designed a moch stakeholder dashboard (Power BI + Excel)
+  - **Results:**  78% accuracy; identitfied top 3 risk factors; mock intervention could reduce no-shows by ~ 15%
 
   ### 2. [HR Absenteeism Dashboard]
   - Developed an interactive Power BI dashboard to track absentee trends
